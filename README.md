@@ -1,2 +1,2 @@
 # ProvaCommit
-Contare commit che contengono la parola "added" nel commento 
+Faccio vari commit con diversi commenti
