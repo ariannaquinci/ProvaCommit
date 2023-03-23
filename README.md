@@ -1,2 +1,2 @@
-# ProvaJira
-Prova Jira con git
+# ProvaCommit
+Contare commit che contengono la parola "added" nel commento 
